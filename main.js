@@ -1,1 +1,1 @@
-console.log("hi");
+const searchTermsInput = document.getElementById("search-terms");
